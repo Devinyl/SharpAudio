@@ -197,6 +197,7 @@ namespace SharpAudio.Codec
 
                             if (res == 0)
                             {
+                                State = SoundStreamState.TrackFinished;
                                 continue;
                             }
 
