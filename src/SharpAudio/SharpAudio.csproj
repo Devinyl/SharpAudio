@@ -16,8 +16,8 @@
     <ProjectReference Include="..\SharpAudio.ALBinding\SharpAudio.ALBinding.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <PackageReference Update="Nerdbank.GitVersioning" Version="3.4.255" />
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
